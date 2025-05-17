@@ -5,7 +5,7 @@
 ## 🧰Tech skill set
 
 * Languages:  C#, JavaScript, SQL
-* Frameworks: .NET, Vue.js (Vite, Nuxt), Express.js
+* Frameworks: .NET, Vue.js (Vite, Nuxt), Express.js, Tailwind CSS
 * Databases: Microsoft SQL Server, MongoDB,  SQLite
 * Tools: Git, Postman/Thunder Client,  Visual Studio/VS Code
 

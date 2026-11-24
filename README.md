@@ -32,7 +32,7 @@ Full-stack developer in Belgrade, Serbia. By day I work on financial back-office
 
 ## 🤖 How I work with AI
 
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge) ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-1F1F1F?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge) ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-10A37F?style=for-the-badge)
 
 I build with AI coding agents, and I stay the engineer responsible for every change.
 

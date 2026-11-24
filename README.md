@@ -30,6 +30,16 @@ Full-stack developer in Belgrade, Serbia. By day I work on financial back-office
 
 <sub>Also: SQL Server, Express, Cloudflare D1, Playwright</sub>
 
+## 🤖 How I work with AI
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge) ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-1F1F1F?style=for-the-badge)
+
+I build with AI coding agents, and I stay the engineer responsible for every change.
+
+- **Plan before code.** Features start as a short spec and a step-by-step plan that I review before anything gets built.
+- **Project rules live in the repo.** Each project keeps a `CLAUDE.md` or `AGENTS.md` with its commands, structure and hard rules, so agents follow the codebase instead of guessing. Example: [DiskSweep's safety rules](https://github.com/MiloshMilinkov/DiskSweep/blob/main/CLAUDE.md).
+- **Reviewed and tested before it ships.** Every non-trivial change gets an AI code review, the project's tests and type checks, and my own read of the diff before it's committed.
+
 ---
 
 💬 Need a website or web app for your business? [Get a free quote](https://milos-milinkov.milos300399.workers.dev)

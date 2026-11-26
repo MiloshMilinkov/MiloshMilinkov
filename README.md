@@ -40,6 +40,8 @@ I build with AI coding agents, and I stay the engineer responsible for every cha
 - **Project rules live in the repo.** Each project keeps a `CLAUDE.md` or `AGENTS.md` with its commands, structure and hard rules, so agents follow the codebase instead of guessing. Example: [DiskSweep's safety rules](https://github.com/MiloshMilinkov/DiskSweep/blob/main/CLAUDE.md).
 - **Reviewed and tested before it ships.** Every non-trivial change gets an AI code review, the project's tests and type checks, and my own read of the diff before it's committed.
 
+📂 **The whole setup is public: [claude-workflow](https://github.com/MiloshMilinkov/claude-workflow).** It has the rules my agents follow, a repo-hardening skill I wrote, and two projects traced from plan to commit.
+
 ---
 
 💬 Need a website or web app for your business? [Get a free quote](https://milos-milinkov.milos300399.workers.dev)
